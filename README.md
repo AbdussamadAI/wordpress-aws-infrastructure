@@ -22,9 +22,13 @@ This project sets up a WordPress installation on AWS using best practices for cl
 
 [Detailed setup instructions will be added as the project progresses]
 
+![WordPress Setup on AWS](2._Host_a_WordPress_Website_on_AWS%20%281%29.png)
+
 ## Architecture
 
-[Architecture details and diagram will be added]
+The following diagram illustrates the cloud architecture of this WordPress deployment:
+
+![WordPress Cloud Architecture](WordPress%20cloud%20arch%20Diagram.drawio.png)
 
 ## Security
 
